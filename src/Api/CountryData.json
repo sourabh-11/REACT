@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1400000000,
+      "interestingFact": "India is the world's largest democracy."
+    },
+    {
+      "id": 2,
+      "countryName": "United States",
+      "capital": "Washington, D.C.",
+      "population": 331000000,
+      "interestingFact": "The U.S. has the largest economy in the world."
+    },
+    {
+      "id": 3,
+      "countryName": "China",
+      "capital": "Beijing",
+      "population": 1440000000,
+      "interestingFact": "China is home to the world's longest wall—the Great Wall of China."
+    },
+    {
+      "id": 4,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 125000000,
+      "interestingFact": "Japan has more vending machines per capita than any other country."
+    },
+    {
+      "id": 5,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 26000000,
+      "interestingFact": "Australia is home to the Great Barrier Reef, the world's largest coral reef system."
+    },
+    {
+      "id": 6,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 213000000,
+      "interestingFact": "Brazil is the largest country in South America and home to the Amazon rainforest."
+    },
+    {
+      "id": 7,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": 144000000,
+      "interestingFact": "Russia is the largest country in the world by land area."
+    },
+    {
+      "id": 8,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83000000,
+      "interestingFact": "Germany is home to the world's largest beer festival, Oktoberfest."
+    },
+    {
+      "id": 9,
+      "countryName": "United Kingdom",
+      "capital": "London",
+      "population": 67000000,
+      "interestingFact": "The United Kingdom is known for its rich history and the British monarchy."
+    },
+    {
+      "id": 10,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 38000000,
+      "interestingFact": "Canada has the longest coastline of any country in the world."
+    }
+  ]
+  
