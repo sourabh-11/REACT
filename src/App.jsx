@@ -8,7 +8,7 @@ import Header from "./Components/Header"
 
 const App = () => {
   return (
-    <div className="bg-[#1E201E] h-screen w-screen">
+    <div className="bg-[#1E201E] h-[100%] w-screen">
     <Router>
       <Header />
       <Routes>

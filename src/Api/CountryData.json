@@ -61,13 +61,7 @@
       "capital": "London",
       "population": 67000000,
       "interestingFact": "The United Kingdom is known for its rich history and the British monarchy."
-    },
-    {
-      "id": 10,
-      "countryName": "Canada",
-      "capital": "Ottawa",
-      "population": 38000000,
-      "interestingFact": "Canada has the longest coastline of any country in the world."
     }
+   
   ]
   
