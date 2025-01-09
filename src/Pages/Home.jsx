@@ -1,3 +1,4 @@
+import Footer from "../Components/Footer"
 import Hero from "../Components/Hero"
 import About from "./About"
 import Contact from "./Contact"
@@ -8,6 +9,7 @@ const Home = () => {
     <Hero/>
     <About/>
     <Contact/>
+    <Footer/>
    </>
 
   )

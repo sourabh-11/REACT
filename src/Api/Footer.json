@@ -1,0 +1,23 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Pune, Maharashtra"
+    },
+    {
+      "icon": "MdPhone",
+      "title": "Call us",
+      "details": "+91 9876543210"
+    },
+    {
+      "icon": "MdEmail",
+      "title": "Email us",
+      "details": "contact@example.com"
+    },
+    {
+      "icon": "MdAccessTime",
+      "title": "Working hours",
+      "details": "Mon - Fri: 9 AM to 6 PM"
+    }
+  ]
+  

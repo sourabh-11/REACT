@@ -1,11 +1,20 @@
 
 
 const Contact = () => {
+ const handlesubmit =(formData) =>{
+  console.log(formData.entries());
+ let data =  Object.fromEntries(formData.entries());
+ console.log(data);
+ 
+  
+  
+ }
+
   return (
     <div className="flex items-center justify-center min-h-screen  text-white">
-      <form className=" p-8 rounded-lg shadow-lg w-full max-w-md">
+      <form action={handlesubmit} className=" p-8 rounded-lg shadow-lg w-full max-w-md">
         <h2 className="text-2xl font-bold mb-6 text-center">Contact Us</h2>
-
+               
         <div className="mb-4">
           <label htmlFor="name" className="block text-sm font-medium mb-2">
             Name
